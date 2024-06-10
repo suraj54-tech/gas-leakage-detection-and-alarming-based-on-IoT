@@ -5,4 +5,4 @@ This project uses an ESP8266 WiFi module which provides the connectivity through
 A MQ-2 Gas sensor is used to detect the gases like CO, LPG, CNG and also Smoke and Alcohol. 
 To make the detection robot move we have used the battery and motors which are connected to the L293 motor driver which is helpful in mobility of the machine.
 Also we have a LCD screen ehich displays the status of detection.
-Overall the whole project/robot plays a very important role in detection of gases and alarming the users which will be a very useful measure to use in the industry as well as in household to prevent life harming explosions
+Overall the whole project/robot plays a very important role in detection of gases and alarming the users which will be a very useful measure to use in the industry as well as in household to prevent life harming explosions.
